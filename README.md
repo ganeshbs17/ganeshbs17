@@ -54,4 +54,4 @@ Let’s collaborate.
 
 ---
 
-> *“Real investigations don’t happen in theory — they happen in messy, incomplete, hostile data.”*
+> *“Digital evidence never lies — it only waits to be found.”*
